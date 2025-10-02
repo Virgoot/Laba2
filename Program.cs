@@ -1,5 +1,5 @@
 ﻿using System;
-
+// aboba
 class Program
 {
     static void Main()
